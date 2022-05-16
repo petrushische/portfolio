@@ -1,0 +1,34 @@
+.header__menu-elements {
+  margin: 0;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 133%;
+  transition: opacity 1s ease;
+}
+
+.header__menu-elements:hover {
+  opacity: .7;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+/*.header__menu-elements:nth-of-type(1) {
+  margin-left: 10px;
+}
+
+.header__menu-elements:nth-of-type(2) {
+  margin-left: 20px;
+  margin-right: 19px;
+}
+
+.header__menu-elements:nth-of-type(3) {
+  margin-right: 10px;
+}
