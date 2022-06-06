@@ -1,0 +1,7 @@
+.logo {
+  background-image: url(../../../images/hello__logo.svg);
+  background-size: cover;
+  width: 9px;
+  height: 40px;
+  margin: 0 auto;
+}
